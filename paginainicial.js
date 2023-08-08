@@ -10,7 +10,7 @@ function login(){
 }
 function cancelar(){
     let cancela = window.document.getElementById('formulario')
-    cancela.innerHTML = `<button id= "botaologin"type="button" onclick="login()"><img src="./imagens/png-transparent-female-avatar-girl-face-woman-user-flat-classy-users-icon.png">`
+    cancela.innerHTML = `<button id= "botaologin"type="button" onclick="login()"><img src="png-transparent-female-avatar-girl-face-woman-user-flat-classy-users-icon.png">`
 }
 
 function start(){
